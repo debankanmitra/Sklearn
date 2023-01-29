@@ -1,0 +1,15 @@
+In regression one value is given and we have to find the other value using regression line ( just like we find y using y=mx+c )
+
+to find the regression line 
+y-Ybar=byx(x-Xbar) // byx=r dely/del x
+on the basis of given values if we can find the regression line equation then we can easily find the other value by putting the given value 
+regression line equation will be different for differnt given values 
+y on x means we know x we have to find y
+advertisement increase korle sale decrease korbe , kotota value increase or decrease korbe eta bojhai regression
+
+CORRELATION IS DIFFERNENT THAN CORRELATION IN CORRELATION WE HAVE TO FIND THE RELATION AND BOTH THE VALUE IS GIVEN
+
+steps to predict current year sell from previous year sell: (USING SIMPLE LINEAR REGRESSION ANALYSIS)
+1) we have to find is there any relationship forming between dependent and independent variable (correlation btwn last year of experience and last sell)
+2) now we have to check for regression to get slope and constant of the line of best fit , and with the help of this line we will predict the current year sell
+
